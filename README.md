@@ -57,6 +57,6 @@ I'm driven by turning AI into **practical, scalable, and high-impact solutions**
 
 ## 📫 Let's Connect
 
-Feel free to explore my repositories or reach out — I'm always interested in building and learning new things.
+Feel free to reach out — I'm always interested in building and learning new things.
 - email: samarane.gabriel@gmail.com
 - LinkedIn: www.linkedin.com/in/gabriel-samarane-882433232
